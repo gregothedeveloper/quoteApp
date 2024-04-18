@@ -8,7 +8,7 @@
 }
 
 body {
-  background: grey;
+  background: #bbc6fa;
 }
 .quote-box {
   background: #fff;
@@ -80,14 +80,13 @@ body {
   margin: 5px;
   cursor: pointer;
 }
-.quote-box img{
-   width: 20px;
-   margin-right:20px;
-   background: rgb(23, 124, 229);
-   border-radius: 50%;
-
+.quote-box img {
+  width: 20px;
+  margin-right: 20px;
+  background: rgb(23, 124, 229);
+  border-radius: 50%;
 }
-.quote-box button:nth-child(2){
-   background: transparent;
-   color: #333;
+.quote-box button:nth-child(2) {
+  background: transparent;
+  color: black;
 }
